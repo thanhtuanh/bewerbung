@@ -42,7 +42,7 @@ Hier ist mein aktueller Lebenslauf als PDF:
 ## 📬 Kontakt
 
 Bei Interesse einfach Kontakt aufnehmen:  
-📧 duc.thanh.nguyen.dev@gmail.com  
+📧 n.thanh@gmx.de  
 🌍 [github.com/thanhtuanh](https://github.com/thanhtuanh)
 
 ---
