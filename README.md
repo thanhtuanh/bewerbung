@@ -20,6 +20,14 @@ Hier ist mein aktueller Lebenslauf als PDF:
 - ⬇️ [Lebenslauf direkt herunterladen](./Lebenslauf.pdf)
 
 ---
+## 📎 Zeugnisse
+
+Hier ist mein aktueller Zeugnisse als PDF:
+
+- 👁️ [Zeugnisse in GitHub-Vorschau anzeigen](./Zeugnisse.pdf)
+- ⬇️ [Zeugnisse direkt herunterladen](./Zeugnisse.pdf)
+
+---
 
 ## 🚀 Referenzprojekte
 
