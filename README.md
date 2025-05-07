@@ -42,8 +42,9 @@ Hier ist mein aktueller Zeugnisse als PDF:
 > Intelligente Produktdaten-Anreicherung (GPT + Vision API)  
 > Mit professioneller Demo-Webseite, Swagger API, Docker Compose
 
-- GitHub: [github.com/thanhtuanh/pim-ai-connector-lite](https://github.com/thanhtuanh/pim-ai-connector-lite)  
 - 🌍 Live-Demo: [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
+  
+- 🌍 Live-Demo: [pim-ai-connector-lite.onrender.com](https://pim-ai-connector-lite.onrender.com)
 
 ---
 
