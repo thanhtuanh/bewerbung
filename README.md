@@ -38,15 +38,28 @@ Hier ist mein aktueller Zeugnisse als PDF:
 
 ---
 
-### 🤖 KI + Microservices: PIM-AI-Connector  
-> Intelligente Produktdaten-Anreicherung (GPT + Vision API)  
-> Mit professioneller Demo-Webseite, Swagger API, Docker Compose
+#### 1️⃣ **PIM-AI-Connector – Vollversion**
 
-- 🌍 Live-Demo: [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
-  
-- 🌍 Live-Demo: [pim-ai-connector-lite.onrender.com](https://pim-ai-connector-lite.onrender.com)
+🔹 Intelligente Produktdaten-Anreicherung mit GPT & Google Vision API
+🔹 Microservice-Architektur (Spring Boot, Docker, PostgreSQL)
+🔹 Swagger API-Dokumentation, JWT-Login, Auth-Service, Produkt-Service
+🔹 Professionelle Weboberfläche für Business-Demo, mehrsprachig (DE/EN/VI)
+
+🌍 **Live-Demo:** [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
 
 ---
+
+#### 2️⃣ **PIM-AI-Connector Lite – Minimalversion für schnelle Integration**
+
+🔹 Kompakte Lösung zur Text- & Bildanalyse via REST-API
+🔹 Ein einzelner Spring Boot Service mit GPT- und Vision-Anbindung
+🔹 HTML-Frontend mit Curl-Beispielen, Konfiguration über XML-Datei
+🔹 Ideal für schnelles Testen & einfache Produktintegration
+
+🌍 **Live-Demo:** [pim-ai-connector-lite.onrender.com](https://pim-ai-connector-lite.onrender.com)
+
+---
+
 
 ## 📬 Kontakt
 
