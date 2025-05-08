@@ -36,7 +36,6 @@ Hier ist mein aktueller Zeugnisse als PDF:
 
 - GitHub: [github.com/thanhtuanh/mybookstore](https://github.com/thanhtuanh/mybookstore)
 
----
 
 #### 1️⃣ **PIM-AI-Connector – Vollversion**
 
@@ -45,9 +44,9 @@ Hier ist mein aktueller Zeugnisse als PDF:
 🔹 Swagger API-Dokumentation, JWT-Login, Auth-Service, Produkt-Service
 🔹 Professionelle Weboberfläche für Business-Demo, mehrsprachig (DE/EN/VI)
 
-🌍 **Live-Demo:** [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
+  🌍 **Live-Demo:** [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
 
----
+
 
 #### 2️⃣ **PIM-AI-Connector Lite – Minimalversion für schnelle Integration**
 
@@ -56,7 +55,7 @@ Hier ist mein aktueller Zeugnisse als PDF:
 🔹 HTML-Frontend mit Curl-Beispielen, Konfiguration über XML-Datei
 🔹 Ideal für schnelles Testen & einfache Produktintegration
 
-🌍 **Live-Demo:** [pim-ai-connector-lite.onrender.com](https://pim-ai-connector-lite.onrender.com)
+  🌍 **Live-Demo:** [pim-ai-connector-lite.onrender.com](https://pim-ai-connector-lite.onrender.com)
 
 ---
 
