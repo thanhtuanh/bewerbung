@@ -2,13 +2,23 @@
 
 ## 👤 Über mich
 
-Ich bin ein erfahrener **Senior Java Fullstack Entwickler** mit Fokus auf:
-- 🧠 Spring Boot, Java, REST APIs
-- 🌐 Angular, TypeScript, JWT
-- 🐳 Docker, CI/CD, Microservices
-- 📦 PIM/DAM-Systeme, GPT-Integration, Google Vision
+Ich bin ein erfahrener **Senior Fullstack Entwickler** mit über 10 Jahren Berufserfahrung – spezialisiert auf Java, PHP und moderne Webtechnologien für skalierbare Unternehmenslösungen.
 
-Ich suche eine neue Herausforderung (Remote oder Raum München) – bevorzugt in einem innovativen, technologiegetriebenen Umfeld.
+### 💻 Fachliche Schwerpunkte
+
+- **Java & Spring Boot** – REST APIs, Validierung, Security (JWT), DTOs, Service Layer
+- **Angular & TypeScript** – komponentenbasiertes Frontend mit Routing, Guards, Formularvalidierung
+- **PHP (E-Commerce)** – langjährige Erfahrung in der Weiterentwicklung von Online-Shops, u. a. bei DePauli AG (herrenausstatter.de), inkl. SEO, Shop-Performance und Datenbankintegration
+- **Docker & DevOps** – Containerisierung, CI/CD (GitHub Actions, GitLab CI), docker-compose, Logging
+- **Microservices** – Strukturierte Aufteilung in Auth-, Produkt- und Analyse-Services
+- **Produktdaten-Management** – Integration von **PIM-/DAM-Systemen**, API-Konzepte, Datenmodellierung
+- **KI-Integration** – Anbindung von GPT (OpenAI) & Google Vision API zur automatisierten Produktanreicherung
+
+### 🎯 Ziel
+
+Ich suche eine neue Herausforderung als **Fullstack Entwickler (m/w/d)** – idealerweise in einem **innovativen, technologiegetriebenen Umfeld**, das auf Qualität, Clean Code und moderne Architekturen setzt.
+
+🔎 Bevorzugt **Remote** oder im **Großraum München** – in einem Team mit Raum für Eigenverantwortung, Weiterentwicklung und technologische Tiefe.
 
 ---
 
