@@ -83,6 +83,8 @@ Hier ist mein aktueller Zeugnisse als PDF:
 - 🧩 Microservice-Architektur mit Auth- & Produkt-Service (Spring Boot)  
 - 🔐 JWT, Swagger API, mehrsprachige Web-Demo (DE/EN/VI)  
 
+🔗 **GitHub:** [github.com/thanhtuanh/pim-ai-connector-demo](https://github.com/thanhtuanh/pim-ai-connector-demo)
+
 🔗 **Live-Demo:** [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
 
 
