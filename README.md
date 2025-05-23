@@ -49,7 +49,7 @@ Hier ist mein aktueller Zeugnisse als PDF:
 
 ---
 
-#### 3️⃣ MyBookstore Microservices
+#### 1️⃣ MyBookstore Microservices
 
 **Microservice-basierte Buchverwaltung:**
 - Umfassende Fullstack-Architektur mit Spring Boot (Backend), Angular (Frontend), Docker & PostgreSQL
@@ -61,7 +61,7 @@ Hier ist mein aktueller Zeugnisse als PDF:
 
 ---
 
-#### 4️⃣ MyCloud – Fullstack Produkt-Manager (Spring Boot, React, AWS S3, Docker)
+#### 2️⃣ MyCloud – Fullstack Produkt-Manager (Spring Boot, React, AWS S3, Docker)
 
 **Moderne Cloud-Anwendung zur Produktverwaltung:**
 - End-to-End Fullstack-Entwicklung: Spring Boot (Java 17), React, REST API, JWT, PostgreSQL, Docker, AWS S3
@@ -74,7 +74,7 @@ Hier ist mein aktueller Zeugnisse als PDF:
 ---
 ---
 
-#### 1️⃣ PIM-AI-Connector – Vollversion
+#### 3️⃣ PIM-AI-Connector – Vollversion
 
 - 🟢 Intelligente Produktdaten-Anreicherung mit GPT & Google Vision API
 - 🟢 Microservice-Architektur (Spring Boot, Docker, PostgreSQL)
@@ -85,7 +85,7 @@ Hier ist mein aktueller Zeugnisse als PDF:
 
 ---
 
-#### 2️⃣ PIM-AI-Connector Lite – Minimalversion für schnelle Integration
+#### 4️⃣ PIM-AI-Connector Lite – Minimalversion für schnelle Integration
 
 - 🟢 Kompakte Lösung zur Text- & Bildanalyse via REST-API
 - 🟢 Ein einzelner Spring Boot Service mit GPT- und Vision-Anbindung
