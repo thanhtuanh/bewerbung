@@ -59,12 +59,14 @@ Hier ist mein aktueller Zeugnisse als PDF:
 
 - ☁️ Vollständige Fullstack-Cloud-App zur Medienverwaltung  
 - 🔐 Authentifizierung mit JWT, REST API, Datei-Upload via AWS S3  
-- ⚙️ GitHub Actions, Docker Compose, PostgreSQL  
-- 🖼️ UI mit Bildvorschau, Upload-Validierung und Fortschrittsanzeige  
+- ⚙️ GitHub Actions für CI/CD, Docker Compose, PostgreSQL  
+- 🧪 **Tests & Testabdeckung**: JUnit, MockMVC, React Testing Library, Coverage-Berichte  
+- 📊 Integration in GitHub Actions zur automatisierten Qualitätssicherung  
+- 🖼️ UI mit Bildvorschau, Drag & Drop Upload und Produktübersicht  
 
 🔗 **GitHub:** [github.com/thanhtuanh/spspring-react-aws-s3-demo](https://github.com/thanhtuanh/spspring-react-aws-s3-demo)
 
----
+----
 
 #### 3️⃣ MyBookstore (Monolith)
 
