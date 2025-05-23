@@ -77,22 +77,19 @@ Hier ist mein aktueller Zeugnisse als PDF:
 
 🔗 **GitHub:** [github.com/thanhtuanh/mybookstore](https://github.com/thanhtuanh/mybookstore)
 
----
-
-### 🔒 Private Projekte (Code auf Anfrage, Live-Demo verfügbar)
-
-#### 4️⃣ PIM-AI-Connector – Vollversion
+#### 4️⃣ PIM-AI-Connector – Vollversion (Live-Demo verfügbar)
 
 - 🧠 Intelligente Produktdaten-Anreicherung mit GPT & Google Vision API  
 - 🧩 Microservice-Architektur mit Auth- & Produkt-Service (Spring Boot)  
 - 🔐 JWT, Swagger API, mehrsprachige Web-Demo (DE/EN/VI)  
-- 🔒 **Quellcode privat – auf Anfrage erhältlich**  
 
 🔗 **Live-Demo:** [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
 
+
 ---
 
-#### 5️⃣ PIM-AI-Connector Lite
+
+#### 5️⃣ PIM-AI-Connector Lite ( Live-Demo verfügbar)
 
 - ⚙️ Kompakter Einzelservice zur Text- und Bildanalyse  
 - 🔐 GPT + Vision API, REST-API, HTML-Demo mit Curl  
