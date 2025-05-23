@@ -42,59 +42,62 @@ Hier ist mein aktueller Zeugnisse als PDF:
 
 ## 🚀 Referenzprojekte
 
-#### 1️⃣ PIM-AI-Connector – Vollversion
+### 🌍 Öffentliche Projekte (Code auf GitHub verfügbar)
 
-- 🟢 Intelligente Produktdaten-Anreicherung mit GPT & Google Vision API  
-- 🟢 Microservice-Architektur (Spring Boot, Docker, PostgreSQL)  
-- 🟢 Swagger API-Dokumentation, JWT-Login, Auth-Service, Produkt-Service  
-- 🟢 Professionelle Weboberfläche für Business-Demo, mehrsprachig (DE/EN/VI)  
+#### 1️⃣ MyBookstore Microservices
 
-🔗 **Live-Demo:** [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
-
----
-
-#### 2️⃣ PIM-AI-Connector Lite – Minimalversion für schnelle Integration
-
-- 🟢 Kompakte Lösung zur Text- & Bildanalyse via REST-API  
-- 🟢 Ein einzelner Spring Boot Service mit GPT- und Vision-Anbindung  
-- 🟢 HTML-Frontend mit Curl-Beispielen, Konfiguration über XML-Datei  
-- 🟢 Ideal für schnelles Testen & einfache Produktintegration  
-
-🔗 **Live-Demo:** [pim-ai-connector-lite.onrender.com](https://pim-ai-connector-lite.onrender.com)
-
----
-
-#### 3️⃣ MyBookstore Microservices
-
-- 🟢 Microservice-basierte Buchverwaltung:  
-  - Fullstack mit Spring Boot (Backend), Angular (Frontend), PostgreSQL, Docker  
-  - Auth-Service mit JWT, Swagger-Doku, Unit-Tests  
-- 🟢 Docker-Compose für lokale Entwicklung  
+- 📚 Microservice-basierte Buchverwaltung  
+- ⚙️ Spring Boot + Angular + Docker + PostgreSQL  
+- 🔐 JWT Auth-Service, API-Doku mit Swagger, Unit/Integrationstests  
+- 🧪 Getrennte User- und Buch-Services, orchestriert mit Docker Compose  
 
 🔗 **GitHub:** [github.com/thanhtuanh/mybookstore-microservices](https://github.com/thanhtuanh/mybookstore-microservices)
 
 ---
 
-#### 4️⃣ MyCloud – Produktmanager mit AWS S3 & React
+#### 2️⃣ MyCloud – Produktmanager (React, Spring Boot, AWS S3)
 
-- 🟢 Moderne Cloud-App zur Produktverwaltung (Java 17 + React + AWS S3)  
-- 🟢 Fullstack-Architektur mit JWT, Spring Boot, PostgreSQL  
-- 🟢 Datei-Upload via AWS S3, GitHub Actions CI/CD, Spring Actuator Monitoring  
-- 🟢 Responsive UI mit Bildvorschau, Drag & Drop Upload und Produktübersicht  
+- ☁️ Vollständige Fullstack-Cloud-App zur Medienverwaltung  
+- 🔐 Authentifizierung mit JWT, REST API, Datei-Upload via AWS S3  
+- ⚙️ GitHub Actions, Docker Compose, PostgreSQL  
+- 🖼️ UI mit Bildvorschau, Upload-Validierung und Fortschrittsanzeige  
 
 🔗 **GitHub:** [github.com/thanhtuanh/spspring-react-aws-s3-demo](https://github.com/thanhtuanh/spspring-react-aws-s3-demo)
 
 ---
 
-#### 5️⃣ MyBookstore (Monolith)
+#### 3️⃣ MyBookstore (Monolith)
 
-- 🟢 Vollständiges Java/Angular Projekt mit Authentifizierung  
-- 🟢 Benutzerregistrierung, Produktübersicht, Rollenrechte  
-- 🟢 Integrationstests, docker-compose Setup  
-- 🟢 Ideal für klassische Architekturen und Einsteiger  
+- 🧱 Klassisches Java/Angular-Projekt  
+- 🔐 Benutzer-Login, Produktanzeige, Rollenrechte  
+- 📦 Vollständig containerisiert mit docker-compose  
+- 🧪 Unit-Tests, DTO-Mapping, REST-Struktur  
 
 🔗 **GitHub:** [github.com/thanhtuanh/mybookstore](https://github.com/thanhtuanh/mybookstore)
 
+---
+
+### 🔒 Private Projekte (Code auf Anfrage, Live-Demo verfügbar)
+
+#### 4️⃣ PIM-AI-Connector – Vollversion
+
+- 🧠 Intelligente Produktdaten-Anreicherung mit GPT & Google Vision API  
+- 🧩 Microservice-Architektur mit Auth- & Produkt-Service (Spring Boot)  
+- 🔐 JWT, Swagger API, mehrsprachige Web-Demo (DE/EN/VI)  
+- 🔒 **Quellcode privat – auf Anfrage erhältlich**  
+
+🔗 **Live-Demo:** [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
+
+---
+
+#### 5️⃣ PIM-AI-Connector Lite
+
+- ⚙️ Kompakter Einzelservice zur Text- und Bildanalyse  
+- 🔐 GPT + Vision API, REST-API, HTML-Demo mit Curl  
+- 🧪 Ideal für Tests & schnelle Integration  
+- 🔒 **Quellcode privat – auf Anfrage erhältlich**  
+
+🔗 **Live-Demo:** [pim-ai-connector-lite.onrender.com](https://pim-ai-connector-lite.onrender.com)
 
 ## 📫 Kontakt
 
