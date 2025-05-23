@@ -42,57 +42,58 @@ Hier ist mein aktueller Zeugnisse als PDF:
 
 ## 🚀 Referenzprojekte
 
-### 🛠️ Fullstack-Projekt: Bookstore  
-> Professionelles Java/Angular-Projekt mit Authentifizierung, Tests und Docker
+#### 1️⃣ PIM-AI-Connector – Vollversion
 
-- GitHub: [github.com/thanhtuanh/mybookstore](https://github.com/thanhtuanh/mybookstore)
+- 🟢 Intelligente Produktdaten-Anreicherung mit GPT & Google Vision API  
+- 🟢 Microservice-Architektur (Spring Boot, Docker, PostgreSQL)  
+- 🟢 Swagger API-Dokumentation, JWT-Login, Auth-Service, Produkt-Service  
+- 🟢 Professionelle Weboberfläche für Business-Demo, mehrsprachig (DE/EN/VI)  
 
----
-
-#### 1️⃣ MyBookstore Microservices
-
-**Microservice-basierte Buchverwaltung:**
-- Umfassende Fullstack-Architektur mit Spring Boot (Backend), Angular (Frontend), Docker & PostgreSQL
-- Auth-Service mit JWT-Authentifizierung, separatem User- und Buch-Service
-- Orchestrierung aller Services via Docker Compose
-- API-Dokumentation mit Swagger, Integration von Unit- und Integrationstests
-
-🔗 GitHub: [github.com/thanhtuanh/mybookstore-microservices](https://github.com/thanhtuanh/mybookstore-microservices)
+🔗 **Live-Demo:** [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
 
 ---
 
-#### 2️⃣ MyCloud – Fullstack Produkt-Manager (Spring Boot, React, AWS S3, Docker)
+#### 2️⃣ PIM-AI-Connector Lite – Minimalversion für schnelle Integration
 
-**Moderne Cloud-Anwendung zur Produktverwaltung:**
-- End-to-End Fullstack-Entwicklung: Spring Boot (Java 17), React, REST API, JWT, PostgreSQL, Docker, AWS S3
-- Cloud- und DevOps-Fokus: Integration von AWS S3 für Datei-Uploads, automatisierte Builds mit GitHub Actions, Docker Compose für lokale Entwicklung
-- Umfassende Tests (JUnit, React Testing Library), Monitoring via Spring Actuator, Clean Code & Best Practices
-- Moderne, responsive UI mit Authentifizierung und Produktmanagement
+- 🟢 Kompakte Lösung zur Text- & Bildanalyse via REST-API  
+- 🟢 Ein einzelner Spring Boot Service mit GPT- und Vision-Anbindung  
+- 🟢 HTML-Frontend mit Curl-Beispielen, Konfiguration über XML-Datei  
+- 🟢 Ideal für schnelles Testen & einfache Produktintegration  
 
-🔗 GitHub: [github.com/thanhtuanh/spspring-react-aws-s3-demo](https://github.com/thanhtuanh/spspring-react-aws-s3-demo)
-
----
----
-
-#### 3️⃣ PIM-AI-Connector – Vollversion
-
-- 🟢 Intelligente Produktdaten-Anreicherung mit GPT & Google Vision API
-- 🟢 Microservice-Architektur (Spring Boot, Docker, PostgreSQL)
-- 🟢 Swagger API-Dokumentation, JWT-Login, Auth-Service, Produkt-Service
-- 🟢 Professionelle Weboberfläche für Business-Demo, mehrsprachig (DE/EN/VI)
-
-🌍 **Live-Demo:** [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
+🔗 **Live-Demo:** [pim-ai-connector-lite.onrender.com](https://pim-ai-connector-lite.onrender.com)
 
 ---
 
-#### 4️⃣ PIM-AI-Connector Lite – Minimalversion für schnelle Integration
+#### 3️⃣ MyBookstore Microservices
 
-- 🟢 Kompakte Lösung zur Text- & Bildanalyse via REST-API
-- 🟢 Ein einzelner Spring Boot Service mit GPT- und Vision-Anbindung
-- 🟢 HTML-Frontend mit Curl-Beispielen, Konfiguration über XML-Datei
-- 🟢 Ideal für schnelles Testen & einfache Produktintegration
+- 🟢 Microservice-basierte Buchverwaltung:  
+  - Fullstack mit Spring Boot (Backend), Angular (Frontend), PostgreSQL, Docker  
+  - Auth-Service mit JWT, Swagger-Doku, Unit-Tests  
+- 🟢 Docker-Compose für lokale Entwicklung  
 
-🌍 **Live-Demo:** [pim-ai-connector-lite.onrender.com](https://pim-ai-connector-lite.onrender.com)
+🔗 **GitHub:** [github.com/thanhtuanh/mybookstore-microservices](https://github.com/thanhtuanh/mybookstore-microservices)
+
+---
+
+#### 4️⃣ MyCloud – Produktmanager mit AWS S3 & React
+
+- 🟢 Moderne Cloud-App zur Produktverwaltung (Java 17 + React + AWS S3)  
+- 🟢 Fullstack-Architektur mit JWT, Spring Boot, PostgreSQL  
+- 🟢 Datei-Upload via AWS S3, GitHub Actions CI/CD, Spring Actuator Monitoring  
+- 🟢 Responsive UI mit Bildvorschau, Drag & Drop Upload und Produktübersicht  
+
+🔗 **GitHub:** [github.com/thanhtuanh/spspring-react-aws-s3-demo](https://github.com/thanhtuanh/spspring-react-aws-s3-demo)
+
+---
+
+#### 5️⃣ MyBookstore (Monolith)
+
+- 🟢 Vollständiges Java/Angular Projekt mit Authentifizierung  
+- 🟢 Benutzerregistrierung, Produktübersicht, Rollenrechte  
+- 🟢 Integrationstests, docker-compose Setup  
+- 🟢 Ideal für klassische Architekturen und Einsteiger  
+
+🔗 **GitHub:** [github.com/thanhtuanh/mybookstore](https://github.com/thanhtuanh/mybookstore)
 
 
 ## 📫 Kontakt
