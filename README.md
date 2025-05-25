@@ -2,110 +2,99 @@
 
 ## 👤 Über mich
 
-Ich bin ein erfahrener **Senior Fullstack Entwickler** mit über 10 Jahren Berufserfahrung – spezialisiert auf Java, PHP und moderne Webtechnologien für skalierbare Unternehmenslösungen.
+Ich bin ein erfahrener **Senior Fullstack Entwickler** mit über 10 Jahren Berufserfahrung – spezialisiert auf **Java**, **PHP** und moderne Webtechnologien für skalierbare Unternehmenslösungen.
 
-### 💻 Fachliche Schwerpunkte
+---
+
+## 💻 Fachliche Schwerpunkte
 
 - **Java & Spring Boot** – REST APIs, Validierung, Security (JWT), DTOs, Service Layer
 - **Angular & TypeScript** – komponentenbasiertes Frontend mit Routing, Guards, Formularvalidierung
-- **PHP (E-Commerce)** – langjährige Erfahrung in der Weiterentwicklung von Online-Shops, u. a. bei DePauli AG (herrenausstatter.de), inkl. SEO, Shop-Performance und Datenbankintegration
+- **PHP (E-Commerce)** – langjährige Erfahrung bei DePauli AG (herrenausstatter.de), inkl. SEO & Performance
 - **Docker & DevOps** – Containerisierung, CI/CD (GitHub Actions, GitLab CI), docker-compose, Logging
-- **Microservices** – Strukturierte Aufteilung in Auth-, Produkt- und Analyse-Services
-- **Produktdaten-Management** – Integration von **PIM-/DAM-Systemen**, API-Konzepte, Datenmodellierung
-- **KI-Integration** – Anbindung von GPT (OpenAI) & Google Vision API zur automatisierten Produktanreicherung
-
-### 🎯 Ziel
-
-Ich suche eine neue Herausforderung als **Fullstack Entwickler (m/w/d)** – idealerweise in einem **innovativen, technologiegetriebenen Umfeld**, das auf Qualität, Clean Code und moderne Architektur setzt.
-
-🔎 Bevorzugt **Remote** oder im **Großraum München** – in einem Team mit Raum für Eigenverantwortung, Weiterentwicklung und technologische Tiefe.
+- **Microservices** – Auth-, Produkt- und Analyse-Services sauber getrennt & orchestriert
+- **Produktdatenmanagement** – PIM-/DAM-Integration, API-Konzepte, Datenmodellierung
+- **KI-Integration** – GPT (OpenAI), Google Vision API zur automatisierten Produktanreicherung
 
 ---
 
-## 💼 Lebenslauf
+## 🎯 Ziel
 
-Hier ist mein aktueller Lebenslauf als PDF:
+Ich suche eine neue Herausforderung als **Fullstack Entwickler (m/w/d)** – idealerweise in einem innovativen, technologiegetriebenen Umfeld, das auf Qualität, Clean Code und moderne Architektur setzt.
 
-- 👁️ [Lebenslauf in GitHub-Vorschau anzeigen](./Lebenslauf.pdf)
-- ⬇️ [Lebenslauf direkt herunterladen](./Lebenslauf.pdf)
+📍 **Bevorzugt Remote oder im Großraum München** – in einem Team mit Raum für Eigenverantwortung, Weiterentwicklung und technologische Tiefe.
 
 ---
 
-## 💼 Zeugnisse
+## 💼 Bewerbungsunterlagen
 
-Hier ist mein aktueller Zeugnisse als PDF:
-
-- 👁️ [Zeugnisse in GitHub-Vorschau anzeigen](./Zeugnisse.pdf)
-- ⬇️ [Zeugnisse direkt herunterladen](./Zeugnisse.pdf)
+- 📄 [Lebenslauf anzeigen (PDF)](./Lebenslauf.pdf)
+- 📄 [Zeugnisse anzeigen (PDF)](./Zeugnisse.pdf)
 
 ---
 
 ## 🚀 Referenzprojekte
 
-### 🌍 Öffentliche Projekte (Code auf GitHub verfügbar)
+### 1️⃣ MyBookstore Microservices
 
-#### 1️⃣ MyBookstore Microservices
+> Microservice-basierte Buchverwaltung mit moderner Architektur.
 
-- 📚 Microservice-basierte Buchverwaltung  
-- ⚙️ Spring Boot + Angular + Docker + PostgreSQL  
-- 🔐 JWT Auth-Service, API-Doku mit Swagger, Unit/Integrationstests  
-- 🧪 Getrennte User- und Buch-Services, orchestriert mit Docker Compose  
-
-🔗 **GitHub:** [github.com/thanhtuanh/mybookstore-microservices](https://github.com/thanhtuanh/mybookstore-microservices)
+- 🔧 Spring Boot + Angular + Docker + PostgreSQL
+- 🔐 JWT Auth-Service, Swagger API-Dokumentation
+- 🧪 Unit-/Integrationstests, Docker Compose
+- 🔗 [GitHub](https://github.com/thanhtuanh/mybookstore-microservices)
 
 ---
 
-#### 2️⃣ MyCloud – Produktmanager (React, Spring Boot, AWS S3)
+### 2️⃣ MyCloud – Produktmanager
 
-- ☁️ Vollständige Fullstack-Cloud-App zur Medienverwaltung  
-- 🔐 Authentifizierung mit JWT, REST API, Datei-Upload via AWS S3  
-- ⚙️ GitHub Actions für CI/CD, Docker Compose, PostgreSQL  
-- 🧪 **Tests & Testabdeckung**: JUnit, MockMVC, React Testing Library, Coverage-Berichte  
-- 📊 Integration in GitHub Actions zur automatisierten Qualitätssicherung  
-- 🖼️ UI mit Bildvorschau, Drag & Drop Upload und Produktübersicht  
+> Cloud-basierte Medienverwaltung mit Datei-Upload über AWS S3.
 
-🔗 **GitHub:** [github.com/thanhtuanh/spspring-react-aws-s3-demo](https://github.com/thanhtuanh/spspring-react-aws-s3-demo)
-
-----
-
-#### 3️⃣ MyBookstore (Monolith)
-
-- 🧱 Klassisches Java/Angular-Projekt  
-- 🔐 Benutzer-Login, Produktanzeige, Rollenrechte  
-- 📦 Vollständig containerisiert mit docker-compose  
-- 🧪 Unit-Tests, DTO-Mapping, REST-Struktur  
-
-🔗 **GitHub:** [github.com/thanhtuanh/mybookstore](https://github.com/thanhtuanh/mybookstore)
-
-#### 4️⃣ PIM-AI-Connector – Vollversion (Live-Demo verfügbar)
-
-- 🧠 Intelligente Produktdaten-Anreicherung mit GPT & Google Vision API  
-- 🧩 Microservice-Architektur mit Auth- & Produkt-Service (Spring Boot)  
-- 🔐 JWT, Swagger API, mehrsprachige Web-Demo (DE/EN/VI)  
-
-🔗 **GitHub:** [github.com/thanhtuanh/pim-ai-connector-demo](https://github.com/thanhtuanh/pim-ai-connector-demo)
-
-🔗 **Live-Demo:** [pim-ai-connector-demo.onrender.com](https://pim-ai-connector-demo.onrender.com)
-
+- ⚙️ Spring Boot Backend + React Frontend
+- 🔐 JWT Auth, REST API, Bildvorschau mit Drag & Drop
+- 🧪 Tests mit JUnit, MockMVC, React Testing Library
+- 🚀 GitHub Actions für automatisierte Qualitätssicherung
+- 🔗 [GitHub](https://github.com/thanhtuanh/spspring-react-aws-s3-demo)
 
 ---
 
+### 3️⃣ MyBookstore (Monolith)
 
-#### 5️⃣ PIM-AI-Connector Lite ( Live-Demo verfügbar)
+> Klassisches Java/Angular-Projekt mit Login & Rollenverwaltung.
 
-- ⚙️ Kompakter Einzelservice zur Text- und Bildanalyse  
-- 🔐 GPT + Vision API, REST-API, HTML-Demo mit Curl  
-- 🧪 Ideal für Tests & schnelle Integration  
-- 🔒 **Quellcode privat – auf Anfrage erhältlich**  
+- 📦 Docker-compose, DTO-Mapping, REST-Architektur
+- 🧪 Umfangreiche Tests mit klarer Schichtenstruktur
+- 🔗 [GitHub](https://github.com/thanhtuanh/mybookstore)
 
-🔗 **Live-Demo:** [pim-ai-connector-lite.onrender.com](https://pim-ai-connector-lite.onrender.com)
+---
+
+### 4️⃣ PIM-AI-Connector (Demo)
+
+> Intelligente Produktdaten-Anreicherung mit GPT & Vision API.
+
+- 🧠 Microservice-Architektur mit Auth & Produkt-Service
+- 🌐 Mehrsprachige Web-Demo (DE/EN/VI), JWT, Swagger UI
+- 🔗 [GitHub](https://github.com/thanhtuanh/pim-ai-connector-demo)  
+- 🔗 [Live-Demo](https://pim-ai-connector-demo.onrender.com)
+
+---
+
+### 5️⃣ PIM-AI-Connector Lite
+
+> Kompakter Einzelservice zur Text- und Bildanalyse (Demo).
+
+- 🧩 GPT + Vision API, REST-API, HTML-Demo mit cURL
+- 🛡️ Code privat – auf Anfrage erhältlich
+- 🔗 [Live-Demo](https://pim-ai-connector-lite.onrender.com)
+
+---
 
 ## 📫 Kontakt
 
-Bei Interesse einfach Kontakt aufnehmen:  
-✉️ n.thanh@gmx.de  
-🌍 [github.com/thanhtuanh](https://github.com/thanhtuanh)
+- ✉️ **E-Mail:** [n.thanh@gmx.de](mailto:n.thanh@gmx.de)  
+- 🌐 **GitHub:** [github.com/thanhtuanh](https://github.com/thanhtuanh)  
+- 💼 **LinkedIn:** [linkedin.com/in/duc-thanh-nguyen-55aa5941](https://www.linkedin.com/in/duc-thanh-nguyen-55aa5941)
 
 ---
 
-*Stand: Mai 2025*
+> 👀 Alle Projekte stehen im Fokus technischer Qualität, echter Use Cases und realistischer Unternehmensanforderungen.
