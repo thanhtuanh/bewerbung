@@ -88,6 +88,23 @@ Ich suche eine neue Herausforderung als **Fullstack Entwickler (m/w/d)** – ide
 - 🔗 [Live-Demo](https://pim-ai-connector-lite.onrender.com)
 
 ---
+### 6️⃣ SDA Backend Lab – Observability & Microservice-Kommunikation
+
+> Praxisprojekt zur technischen Vertiefung in moderne Microservice-Architektur & Observability.
+
+🔧 Spring Boot 3.3, Eureka, OpenTelemetry, Prometheus, Grafana, Docker
+
+📦 product-/order-Service via Discovery verknüpft, strukturiertes Logging mit Correlation-ID
+
+📈 Tracing, Metrics und Logs zentral visualisiert (Tempo, Dashboards)
+
+📊 Prometheus-Scraping, Dashboards für Service-Performance
+
+🧪 curl-Testskripte & Monitoring-Konfiguration integriert
+
+- 🔗 [GitHub](https://github.com/thanhtuanh/sda-backend-lab)  
+
+---
 
 ## 📫 Kontakt
 
