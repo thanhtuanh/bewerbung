@@ -84,7 +84,7 @@ Ich suche eine neue Herausforderung als **Fullstack Entwickler (m/w/d)** – ide
 > Kompakter Einzelservice zur Text- und Bildanalyse (Demo).
 
 - 🧩 GPT + Vision API, REST-API, HTML-Demo mit cURL
-- 🛡️ Code privat – auf Anfrage erhältlich
+- 🔗 [GitHub](https://github.com/thanhtuanh/pim-ai-connector-lite)
 - 🔗 [Live-Demo](https://pim-ai-connector-lite.onrender.com)
 
 ---
