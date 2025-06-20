@@ -70,10 +70,9 @@ Ich suche eine neue Herausforderung als **Fullstack Entwickler (m/w/d)** – ide
 
 ### 4️⃣ PIM-AI-Connector (Demo)
 
-> Intelligente Produktdaten-Anreicherung mit GPT & Vision API.
+> Intelligente Produktdaten-Anreicherung mit GPT.
 
 - 🧠 Microservice-Architektur mit Auth & Produkt-Service
-- 🌐 Mehrsprachige Web-Demo (DE/EN/VI), JWT, Swagger UI
 - 🔗 [GitHub](https://github.com/thanhtuanh/pim-ai-connector-demo)  
 - 🔗 [Live-Demo](https://pim-ai-connector-demo.onrender.com)
 
@@ -84,6 +83,7 @@ Ich suche eine neue Herausforderung als **Fullstack Entwickler (m/w/d)** – ide
 > Kompakter Einzelservice zur Text- und Bildanalyse (Demo).
 
 - 🧩 GPT + Vision API, REST-API, HTML-Demo mit cURL
+- 🌐 Mehrsprachige Web-Demo (DE/EN/VI)
 - 🔗 [GitHub](https://github.com/thanhtuanh/pim-ai-connector-lite)
 - 🔗 [Live-Demo](https://pim-ai-connector-lite.onrender.com)
 
