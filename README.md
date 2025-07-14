@@ -28,8 +28,8 @@ Ich suche eine neue Herausforderung als **Fullstack Entwickler (m/w/d)** – ide
 
 ## 💼 Bewerbungsunterlagen
 
-  - 📄 [Lebenslauf anzeigen (PDF)](https://www.google.com/search?q=./Lebenslauf.pdf)
-  - 📄 [Zeugnisse anzeigen (PDF)](https://www.google.com/search?q=./Zeugnisse.pdf)
+  - 📄 [Lebenslauf anzeigen (PDF)](Lebenslauf.pdf)
+  - 📄 [Zeugnisse anzeigen (PDF)](Zeugnisse.pdf)
 
 -----
 
