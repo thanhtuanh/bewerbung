@@ -11,7 +11,7 @@ Schwerpunkte: **Spring Boot**, **Angular/TypeScript**, **Microservices**, **REST
 ---
 
 ## 🧭 Über mich (kurz)
-Ich entwickle skalierbare, wartbare **Java-Backends** mit sauberem API-Design und liefere **UI-Erlebnisse** mit **Angular**. Ich verbinde Technik mit Business-Wert (Time-to-Market, Qualität, Stabilität) – inklusive **Observability** und **DevOps**. Ruhige, zuverlässige Arbeitsweise; Fokus auf nachhaltige Lösungen.
+Ich entwickle skalierbare, wartbare **Java-Backends** mit sauberem API-Design und liefere **UI-Erlebnisse** mit **Angular**. Fokus auf Business-Wert, Qualität, Observability und DevOps. Ruhige, zuverlässige Arbeitsweise; nachhaltige Lösungen statt Hype.
 
 **Zielrolle:** (Senior) **Java / Full-Stack Entwickler** – Remote oder München.
 
@@ -35,93 +35,65 @@ Ich entwickle skalierbare, wartbare **Java-Backends** mit sauberem API-Design un
 
 ---
 
-## ⭐ Referenzprojekte (SEPAT – 5-Zeilen-Story)
+## ⭐ Referenzprojekte
 
 ### 1) AI Docs Assist – Enterprise Document Intelligence
-**Stack:** Spring Boot 3 + Angular, **OpenAI-NLP**, **Caching**, **Health-Checks (Actuator)**, **Prometheus-ready**  
-**S**: KI-gestützte **Dokumentenanalyse** (Branchenerkennung, Zusammenfassung, Keywords) für PDF/DOC/TXT.  
-**E**: **Live-Demo:** https://ai-docs-assist.onrender.com  
-**P**: Einheitliche, robuste Analysepipelines für Bewerbungen & Enterprise-Workloads.  
-**A**: **Spring Boot 3 + Angular**, OpenAI-NLP, Caching, Health-Checks (Actuator), Prometheus-Export.  
-**T**: Kaltstart (Free-Tier), Upload-Limit; Fallback-Strategien dokumentiert.
-
-> 🔒 **Quellcode privat** – Zugriff auf Anfrage (NDA möglich). Screenshots & cURL-Snippets lieferbar.
+**Kurzbeschreibung:** KI-gestützte Dokumentenanalyse (Branchenerkennung, Zusammenfassung, Keywords) für PDF/DOC/TXT.  
+**Live-Demo:** https://ai-docs-assist.onrender.com  
+**Tech-Highlights:** Spring Boot 3 + Angular, OpenAI-NLP, Caching, Health-Checks (Actuator), Prometheus-Export.  
+**Besonderheiten:** Free-Tier-Kaltstart, Upload-Limit; Fallbacks dokumentiert.  
+🔒 **Quellcode privat** – Zugriff auf Anfrage (NDA möglich).
 
 ---
 
 ### 2) PIM-AI-Connector – Produktdaten-Intelligenz (Demo)
-**S**: KI-gestützte Produkttexte/Attribute in PIM-Workflows automatisieren.  
-**E**: **Live-Demo:** https://pim-ai-connector-demo.onrender.com/ • **Repo:** [thanhtuanh/pim-ai-connector-demo](https://github.com/thanhtuanh/pim-ai-connector-demo)  
-**P**: Manuelle Content-Pflege ist teuer/uneinheitlich.  
-**A**: Microservice-Setup (Auth, Product-Intelligence, UI), REST-APIs, optional Vision-Erweiterungen.  
-**T**: API-Keys/Quotas; Demo-Daten & Limits dokumentiert.
-
-> ℹ️ **„pim-ai-connector-lite“ wurde aus dem Portfolio entfernt.**
+**Kurzbeschreibung:** Automatisierte Produkttexte/Attribute für PIM-Workflows.  
+**Live-Demo:** https://pim-ai-connector-demo.onrender.com/  
+**Repo:** [thanhtuanh/pim-ai-connector-demo](https://github.com/thanhtuanh/pim-ai-connector-demo)  
+**Tech-Highlights:** Microservices (Auth, Product-Intelligence, UI), REST-APIs, optional Vision-Erweiterungen.  
+**Besonderheiten:** API-Key/Quota-Limits; Demo-Daten dokumentiert.  
+ℹ️ **„pim-ai-connector-lite“** wurde aus dem Portfolio entfernt.
 
 ---
 
 ### 3) DTN Compliance Intelligence Platform – DSGVO + EU AI Act
-**S**: KI sicher & compliant in deutschen Firmen einsetzen (DSGVO/AI-Act).  
-**E**: **Live-Demo (Swagger):** https://dtn-compliance.onrender.com/swagger-ui/  
-     **Repo:** [thanhtuanh/dtn-compliance-platform](https://github.com/thanhtuanh/dtn-compliance-platform)  
-**P**: Audits/Prozesse manuell, teuer, langsam.  
-**A**: Spring-Boot-Services (VVT/DSFA/Risiko), OpenAPI, Observability; Docker/K8s-fit.  
-**T**: Policies/Checklisten versioniert; Demo-Daten vs. Realbetrieb differenziert.
+**Kurzbeschreibung:** KI rechtssicher & auditierbar in deutschen Unternehmen einsetzen.  
+**Live-Demo (Swagger):** https://dtn-compliance.onrender.com/swagger-ui/  
+**Repo:** [thanhtuanh/dtn-compliance-platform](https://github.com/thanhtuanh/dtn-compliance-platform)  
+**Tech-Highlights:** Spring-Boot-Services (VVT/DSFA/Risiko), OpenAPI, Observability; Docker/K8s-fit.  
+**Besonderheiten:** Versionierte Policies/Checklisten; klare Trennung Demo vs. Produktion.
 
 ---
 
 ### 4) Bank-Portal-Demo – Microservice-Banking
-**S**: Sichere Konto-/Transfer-Funktionen mit klarer Trennung von Domänen.  
-**E**: **Repo:** [thanhtuanh/bank-portal-demo](https://github.com/thanhtuanh/bank-portal-demo)  
-**P**: Auth/Account/Transfer sauber kapseln; Nachvollziehbarkeit & Tests.  
-**A**: Java 17, Spring Boot 3.x, PostgreSQL, Docker; Angular-Frontend.  
-**T**: JWT/BCrypt, Health-Checks, CI/CD-Blueprint.
+**Kurzbeschreibung:** Sichere Konto-/Transfer-Funktionen mit sauberer Domänen-Trennung.  
+**Repo:** [thanhtuanh/bank-portal-demo](https://github.com/thanhtuanh/bank-portal-demo)  
+**Tech-Highlights:** Java 17, Spring Boot 3.x, PostgreSQL, Docker; Angular-Frontend.  
+**Besonderheiten:** JWT/BCrypt, Health-Checks, CI/CD-Blueprint.
 
 ---
 
 ### 5) MyBookstore – Microservices „from scratch“
-**S**: Lern- & Demonstrationsszenario für Microservice-Basics.  
-**E**: **Repo:** [thanhtuanh/mybookstore-microservices](https://github.com/thanhtuanh/mybookstore-microservices)  
-**P**: Saubere API-Schnitte, Auth, einfache Deployments.  
-**A**: Spring Boot + Angular + PostgreSQL; Docker Compose.  
-**T**: Unit/Integrationstests, JWT-Auth, Beispieldaten.
+**Kurzbeschreibung:** Lernbare Microservice-Basis mit Auth, Katalog und Deployments.  
+**Repo:** [thanhtuanh/mybookstore-microservices](https://github.com/thanhtuanh/mybookstore-microservices)  
+**Tech-Highlights:** Spring Boot + Angular + PostgreSQL; Docker Compose.  
+**Besonderheiten:** Unit/Integrationstests, JWT-Auth, Beispieldaten.
 
 ---
 
 ### 6) MyCloud Product Manager – Uploads auf S3
-**S**: Medien/Produkt-Uploads und Verwaltung, praxistaugliche Datei-Pipelines.  
-**E**: **Repo:** [thanhtuanh/spspring-react-aws-s3-demo](https://github.com/thanhtuanh/spspring-react-aws-s3-demo)  
-**P**: Sichere Storage-Flows, Metadaten, Versionierung.  
-**A**: Spring Boot + React, JWT, GitHub Actions.  
-**T**: Rechte/Rollen, Kostenlimits, Tests (JUnit/MockMVC/RTL).
+**Kurzbeschreibung:** Medien/Produkt-Uploads und Verwaltung, praxistaugliche Datei-Pipelines.  
+**Repo:** [thanhtuanh/spspring-react-aws-s3-demo](https://github.com/thanhtuanh/spspring-react-aws-s3-demo)  
+**Tech-Highlights:** Spring Boot + React, JWT, GitHub Actions.  
+**Besonderheiten:** Rechte/Rollen, Kostenlimits, Tests (JUnit/MockMVC/RTL).
 
 ---
 
 ### 7) Invoice Scanner – Blacklist-IBAN-Prüfung
-**S**: PDFs automatisch parsen und sensible IBANs blocken.  
-**E**: **Repo:** [thanhtuanh/invoice-scanner](https://github.com/thanhtuanh/invoice-scanner)  
-**P**: Manuelle Sichtung fehleranfällig/langsam.  
-**A**: Java/Spring API für Datei-Upload & Regeln, klare DTOs, Tests.  
-**T**: Test-PDF & README-Flow dokumentiert.
+**Kurzbeschreibung:** PDFs parsen und gegen Blacklist-IBANs prüfen.  
+**Repo:** [thanhtuanh/invoice-scanner](https://github.com/thanhtuanh/invoice-scanner)  
+**Tech-Highlights:** Java/Spring-API, klare DTOs, robuste Validierung.  
+**Besonderheiten:** Test-PDF & Ablauf im README dokumentiert.
 
 ---
 
-## 🧪 Live-Check (cURL-Beispiele)
-> **Beispiel: AI Docs Assist** – kann im Gespräch live gezeigt werden
-
-```bash
-# Branchenerkennung
-curl -X POST https://ai-docs-assist.onrender.com/api/ai/detect-industry \
-  -H "Content-Type: application/json" \
-  -d '{"text":"BMW entwickelt Elektrofahrzeuge und Ladeinfrastruktur ..."}'
-
-# Vollständige Textanalyse
-curl -X POST https://ai-docs-assist.onrender.com/api/documents/analyze-text \
-  -H "Content-Type: application/json" \
-  -d '{"text":"Angular 17 + Spring Boot 3 ...",
-       "options":{"generateSummary":true,"extractKeywords":true,"suggestComponents":true}}'
-
-# Datei-Upload
-curl -X POST https://ai-docs-assist.onrender.com/api/documents \
-  -F "file=@document.pdf" \
-  -F "generateSummary=true" -F "extractKeywords=true" -F "suggestComponents=true"
