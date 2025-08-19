@@ -1,91 +1,127 @@
-# Bewerbung – Duc Thanh Nguyen
+# 📌 Bewerbung – Duc Thanh Nguyen
 
-## Über mich
-Senior Fullstack Entwickler (10+ Jahre) mit Fokus auf **Java & Spring Boot**, **Angular/TypeScript** und **Cloud-ready Microservices**. Starker Business-Fokus (E-Commerce, FinTech, AI-gestützte Document Intelligence), Clean Code, DevOps-Mindset.
+**Senior Full-Stack Entwickler (Java/Angular) • 10+ Jahre Erfahrung**  
+Schwerpunkte: **Spring Boot**, **Angular/TypeScript**, **Microservices**, **REST/APIs**, **PostgreSQL**, **Docker/K8s**, **CI/CD**, **AI-Integration**  
+🔗 Portfolio-Start: https://github.com/thanhtuanh/bewerbung
 
----
-
-## Fachliche Schwerpunkte
-- **Java & Spring Boot** – REST APIs, Security (JWT), Validation, Observability
-- **Angular & TypeScript** – Komponentenarchitektur, Router, Reactive Forms
-- **Microservices & DevOps** – Docker, CI/CD (GitHub Actions), Kubernetes-Fit
-- **Daten** – PostgreSQL, JPA/Hibernate, Caching (Caffeine/Redis)
-- **AI-Integration** – GPT/OpenAI, Dokumenten-/NLP-Use Cases
+**Live-Demos:**  
+- **AI Docs Assist** → https://ai-docs-assist.onrender.com  
+- **PIM-AI-Connector** → https://pim-ai-connector-demo.onrender.com/
 
 ---
 
-## Ziel
-Vollzeit als **(Senior) Java / Fullstack Entwickler** – remote oder München. Moderne Architektur, Qualität, ruhige Teamkultur.
+## 🧭 Über mich (kurz)
+Ich entwickle skalierbare, wartbare **Java-Backends** mit sauberem API-Design und liefere **UI-Erlebnisse** mit **Angular**. Ich verbinde Technik mit Business-Wert (Time-to-Market, Qualität, Stabilität) – inklusive **Observability** und **DevOps**. Ruhige, zuverlässige Arbeitsweise; Fokus auf nachhaltige Lösungen.
+
+**Zielrolle:** (Senior) **Java / Full-Stack Entwickler** – Remote oder München.
 
 ---
 
-## Bewerbungsunterlagen
-- 📄 [Lebenslauf (PDF)](./Lebenslauf.pdf)
-- 📄 [Zeugnisse (PDF)](./Zeugnisse.pdf)
+## 🧰 Skills (Auszug)
+- **Backend:** Java 17/21, Spring Boot 3, Spring Security, JPA/Hibernate, Validation, MapStruct  
+- **Frontend:** Angular 16/17/18, RxJS, Routing, Reactive Forms, State Patterns  
+- **Daten & Integration:** PostgreSQL, SQL/Indexing, REST, JSON, CSV, File-Pipelines (S3)  
+- **DevOps:** Docker, Docker Compose, GitHub Actions, Helm/K8s-fit, OpenAPI/Swagger  
+- **Quality & Ops:** JUnit/AssertJ/MockMVC, Testcontainers (fit), Micrometer/Actuator, OpenTelemetry/Prometheus/Grafana  
+- **AI-Integration:** OpenAI/GPT, Prompt-Pipelines, strukturierte Dokumentanalyse (NLP)
 
 ---
 
-## Referenzprojekte (SEPAT-Kurzform)
+## 📄 Bewerbungsunterlagen
+- **Lebenslauf (PDF):** [`Lebenslauf_Duc_Thanh_Nguyen.pdf`](./Lebenslauf_Duc_Thanh_Nguyen.pdf)
+- **Arbeitszeugnisse (PDF):** [`Arbeitszeugnisse.pdf`](./Arbeitszeugnisse.pdf)
 
-### 1️⃣ AI Docs Assist – Enterprise Document Intelligence
-**S**: KI-gestützte **Dokumentenanalyse** (Branchenerkennung, Summary, Keywords).  
-**E**: 🔗 **Live-Demo**: https://ai-docs-assist.onrender.com  
-**P**: Für Bewerbungen & Enterprise: schnelle, robuste Analyse von **PDF/DOC/TXT**.  
-**A**: **Spring Boot + Angular**, OpenAI-NLP, Caching, Actuator Health, Prometheus-ready.  
-**T**: Free-Tier-Latenz, Fallback-Strategien dokumentiert; Curl-Beispiele & Health-Checks.
-
-> 🔒 **Quellcode privat** – Zugriff auf Anfrage (NDA möglich).
+> **Hinweis:** Anschreiben werden pro Firma separat abgelegt: `Anschreiben_<Firma>.pdf`.
 
 ---
 
-### 2️⃣ Bank Portal – Mikroservice-Banking
-**S**: Sichere Konto-/Transfer-Funktionen als Microservices.  
-**E**: 🔗 Repo `thanhtuanh/bankportal-demo`  
-**P**: Auth/Account getrennt, API-Security & Transaktionen.  
-**A**: Java 17, Spring Boot 3.x, Angular 18, PostgreSQL, Docker/K8s-fit.  
-**T**: JWT/BCrypt, Health-Checks, CI/CD, Demo-Skripte.
+## ⭐ Referenzprojekte (SEPAT – 5-Zeilen-Story)
+
+### 1) AI Docs Assist – Enterprise Document Intelligence
+**Stack:** Spring Boot 3 + Angular, **OpenAI-NLP**, **Caching**, **Health-Checks (Actuator)**, **Prometheus-ready**  
+**S**: KI-gestützte **Dokumentenanalyse** (Branchenerkennung, Zusammenfassung, Keywords) für PDF/DOC/TXT.  
+**E**: **Live-Demo:** https://ai-docs-assist.onrender.com  
+**P**: Einheitliche, robuste Analysepipelines für Bewerbungen & Enterprise-Workloads.  
+**A**: **Spring Boot 3 + Angular**, OpenAI-NLP, Caching, Health-Checks (Actuator), Prometheus-Export.  
+**T**: Kaltstart (Free-Tier), Upload-Limit; Fallback-Strategien dokumentiert.
+
+> 🔒 **Quellcode privat** – Zugriff auf Anfrage (NDA möglich). Screenshots & cURL-Snippets lieferbar.
 
 ---
 
-### 3️⃣ SDA Backend Lab – Observability & Service Discovery
-**S**: Lern-/Showcase für **Tracing/Metrics/Logs**.  
-**E**: 🔗 Repo `thanhtuanh/sda-backend-lab`  
-**P**: Transparente Microservice-Kommunikation & Fehlersuche.  
-**A**: Spring Boot, **Eureka**, **OpenTelemetry + Prometheus + Grafana**.  
-**T**: Dashboards, Correlation-IDs, strukturierte Fehler.
+### 2) PIM-AI-Connector – Produktdaten-Intelligenz (Demo)
+**S**: KI-gestützte Produkttexte/Attribute in PIM-Workflows automatisieren.  
+**E**: **Live-Demo:** https://pim-ai-connector-demo.onrender.com/ • **Repo:** [thanhtuanh/pim-ai-connector-demo](https://github.com/thanhtuanh/pim-ai-connector-demo)  
+**P**: Manuelle Content-Pflege ist teuer/uneinheitlich.  
+**A**: Microservice-Setup (Auth, Product-Intelligence, UI), REST-APIs, optional Vision-Erweiterungen.  
+**T**: API-Keys/Quotas; Demo-Daten & Limits dokumentiert.
+
+> ℹ️ **„pim-ai-connector-lite“ wurde aus dem Portfolio entfernt.**
 
 ---
 
-### 4️⃣ MyCloud – Produktmanager (S3)
-**S**: Medien/Produkt-Upload & Verwaltung.  
-**E**: 🔗 Repo `thanhtuanh/spspring-react-aws-s3-demo`  
-**P**: Skalierbare Datei-Pipelines.  
+### 3) DTN Compliance Intelligence Platform – DSGVO + EU AI Act
+**S**: KI sicher & compliant in deutschen Firmen einsetzen (DSGVO/AI-Act).  
+**E**: **Live-Demo (Swagger):** https://dtn-compliance.onrender.com/swagger-ui/  
+     **Repo:** [thanhtuanh/dtn-compliance-platform](https://github.com/thanhtuanh/dtn-compliance-platform)  
+**P**: Audits/Prozesse manuell, teuer, langsam.  
+**A**: Spring-Boot-Services (VVT/DSFA/Risiko), OpenAPI, Observability; Docker/K8s-fit.  
+**T**: Policies/Checklisten versioniert; Demo-Daten vs. Realbetrieb differenziert.
+
+---
+
+### 4) Bank-Portal-Demo – Microservice-Banking
+**S**: Sichere Konto-/Transfer-Funktionen mit klarer Trennung von Domänen.  
+**E**: **Repo:** [thanhtuanh/bank-portal-demo](https://github.com/thanhtuanh/bank-portal-demo)  
+**P**: Auth/Account/Transfer sauber kapseln; Nachvollziehbarkeit & Tests.  
+**A**: Java 17, Spring Boot 3.x, PostgreSQL, Docker; Angular-Frontend.  
+**T**: JWT/BCrypt, Health-Checks, CI/CD-Blueprint.
+
+---
+
+### 5) MyBookstore – Microservices „from scratch“
+**S**: Lern- & Demonstrationsszenario für Microservice-Basics.  
+**E**: **Repo:** [thanhtuanh/mybookstore-microservices](https://github.com/thanhtuanh/mybookstore-microservices)  
+**P**: Saubere API-Schnitte, Auth, einfache Deployments.  
+**A**: Spring Boot + Angular + PostgreSQL; Docker Compose.  
+**T**: Unit/Integrationstests, JWT-Auth, Beispieldaten.
+
+---
+
+### 6) MyCloud Product Manager – Uploads auf S3
+**S**: Medien/Produkt-Uploads und Verwaltung, praxistaugliche Datei-Pipelines.  
+**E**: **Repo:** [thanhtuanh/spspring-react-aws-s3-demo](https://github.com/thanhtuanh/spspring-react-aws-s3-demo)  
+**P**: Sichere Storage-Flows, Metadaten, Versionierung.  
 **A**: Spring Boot + React, JWT, GitHub Actions.  
-**T**: Testabdeckung (JUnit/MockMVC/RTL).
+**T**: Rechte/Rollen, Kostenlimits, Tests (JUnit/MockMVC/RTL).
 
 ---
 
-### 5️⃣ MyBookstore Microservices
-**S**: Lernbare Microservice-Grundlagen.  
-**E**: 🔗 Repo `thanhtuanh/mybookstore-microservices`  
-**P**: Auth, Katalog, Deployment via Docker Compose.  
-**A**: Spring Boot + Angular + PostgreSQL.  
-**T**: Unit/Integrationstests, JWT-Auth.
+### 7) Invoice Scanner – Blacklist-IBAN-Prüfung
+**S**: PDFs automatisch parsen und sensible IBANs blocken.  
+**E**: **Repo:** [thanhtuanh/invoice-scanner](https://github.com/thanhtuanh/invoice-scanner)  
+**P**: Manuelle Sichtung fehleranfällig/langsam.  
+**A**: Java/Spring API für Datei-Upload & Regeln, klare DTOs, Tests.  
+**T**: Test-PDF & README-Flow dokumentiert.
 
 ---
 
-### 6️⃣ PIM-AI-Connector (Demo)
-**S**: KI-gestützte Produktdaten-Anreicherung.  
-**E**: 🔗 Live-Demo (Render) • 🔗 Repo `thanhtuanh/pim-ai-connector-demo`  
-**P**: Automatisierung von PIM-Anreicherungen (Text/Bild).  
-**A**: Microservices: Auth, Product-Intelligence, Frontend.  
-**T**: API-Keys/Quotas, Demo-Szenarien dokumentiert.
+## 🧪 Live-Check (cURL-Beispiele)
+> **Beispiel: AI Docs Assist** – kann im Gespräch live gezeigt werden
 
-> **Hinweis:** Das Projekt **„PIM-AI-Connector Lite“** wurde aus dem Portfolio **entfernt**.
+```bash
+# Branchenerkennung
+curl -X POST https://ai-docs-assist.onrender.com/api/ai/detect-industry \
+  -H "Content-Type: application/json" \
+  -d '{"text":"BMW entwickelt Elektrofahrzeuge und Ladeinfrastruktur ..."}'
 
----
+# Vollständige Textanalyse
+curl -X POST https://ai-docs-assist.onrender.com/api/documents/analyze-text \
+  -H "Content-Type: application/json" \
+  -d '{"text":"Angular 17 + Spring Boot 3 ...",
+       "options":{"generateSummary":true,"extractKeywords":true,"suggestComponents":true}}'
 
-## Kontakt
-- ✉️ n.thanh@gmx.de  
-- 🔗 GitHub: https://github.com/thanhtuanh  
-- 🔗 LinkedIn: https://www.linkedin.com/in/duc-thanh-nguyen-55aa5941
+# Datei-Upload
+curl -X POST https://ai-docs-assist.onrender.com/api/documents \
+  -F "file=@document.pdf" \
+  -F "generateSummary=true" -F "extractKeywords=true" -F "suggestComponents=true"
