@@ -28,8 +28,8 @@ Ich entwickle skalierbare, wartbare **Java-Backends** mit sauberem API-Design un
 ---
 
 ## 📄 Bewerbungsunterlagen
-- **Lebenslauf (PDF):** [`Lebenslauf_Duc_Thanh_Nguyen.pdf`](./Lebenslauf_Duc_Thanh_Nguyen.pdf)
-- **Arbeitszeugnisse (PDF):** [`Arbeitszeugnisse.pdf`](./Arbeitszeugnisse.pdf)
+- **Lebenslauf (PDF):** [`Lebenslauf.pdf`](./Lebenslauf.pdf)
+- **Arbeitszeugnisse (PDF):** [`Zeugnisse.pdf`](./Zeugnisse.pdf)
 
 > **Hinweis:** Anschreiben werden pro Firma separat abgelegt: `Anschreiben_<Firma>.pdf`.
 
