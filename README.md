@@ -29,7 +29,7 @@ Vollzeit als **(Senior) Java / Fullstack Entwickler** – remote oder München. 
 
 ### 1️⃣ AI Docs Assist – Enterprise Document Intelligence
 **S**: KI-gestützte **Dokumentenanalyse** (Branchenerkennung, Summary, Keywords).  
-**E**: 🔗 **Live-Demo**: https://ai-docs-assist.onrender.com • 🔗 **Repo**: `thanhtuanh/ai-docs-assist-demo`  
+**E**: 🔗 **Live-Demo**: https://ai-docs-assist.onrender.com 
 **P**: Für Bewerbungen & Enterprise-Workloads: schnelle, robuste Analyse von **PDF/DOC/TXT**.  
 **A**: **Spring Boot + Angular**, OpenAI-NLP, Caching, Actuator Health, Prometheus-ready.  
 **T**: Free-Tier-Latenz, Fallback-Strategien dokumentiert; Curl-Beispiele & Health-Checks.
