@@ -57,8 +57,7 @@ Ich entwickle skalierbare, wartbare **Java-Backends** mit sauberem API-Design un
 ---
 
 ### 3) DTN Compliance Intelligence Platform – DSGVO + EU AI Act
-**Kurzbeschreibung:** KI rechtssicher & auditierbar in deutschen Unternehmen einsetzen.  
-**Live-Demo (Swagger):** https://dtn-compliance.onrender.com/swagger-ui/  
+**Kurzbeschreibung:** KI rechtssicher & auditierbar in deutschen Unternehmen einsetzen.    
 **Repo:** [thanhtuanh/dtn-compliance-platform](https://github.com/thanhtuanh/dtn-compliance-platform)  
 **Tech-Highlights:** Spring-Boot-Services (VVT/DSFA/Risiko), OpenAPI, Observability; Docker/K8s-fit.  
 **Besonderheiten:** Versionierte Policies/Checklisten; klare Trennung Demo vs. Produktion.
