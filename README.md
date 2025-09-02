@@ -66,7 +66,7 @@ Ich entwickle skalierbare, wartbare **Java-Backends** mit sauberem API-Design un
 
 ### 4) Bank-Portal-Demo – Microservice-Banking
 **Kurzbeschreibung:** Sichere Konto-/Transfer-Funktionen mit sauberer Domänen-Trennung.  
-**Repo:** [thanhtuanh/bank-portal-demo](https://github.com/thanhtuanh/bankportal-demo)  
+**Repo:** [thanhtuanh/bankportal-demo](https://github.com/thanhtuanh/bankportal-demo)  
 **Tech-Highlights:** Java 17, Spring Boot 3.x, PostgreSQL, Docker; Angular-Frontend.  
 **Besonderheiten:** JWT/BCrypt, Health-Checks, CI/CD-Blueprint.
 
