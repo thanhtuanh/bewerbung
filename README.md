@@ -9,6 +9,19 @@ Schwerpunkte: **Spring Boot**, **Angular/TypeScript**, **Microservices**, **REST
 - [PIM-AI-Connector](https://pim-ai-connector-demo.onrender.com)
 
 ---
+## 📬 Kontakt
+| | |
+|---|---|
+| **📛 Name** | Duc Thanh Nguyen |
+| **📍 Adresse** | Bahnhofstraße 11, 85375 Neufahrn bei Freising |
+| **📞 Telefon** | 0171 9348838 |
+| **✉ E-Mail** | [n.thanh@gmx.de](mailto:n.thanh@gmx.de) |
+| **🔗 GitHub** | [github.com/thanhtuanh](https://github.com/thanhtuanh) |
+| **💼 LinkedIn** | [Duc Thanh Nguyen](https://www.linkedin.com/in/duc-thanh-nguyen-55aa5941/) |
+| **💼 XING** | [Duc Thanh Nguyen](https://www.xing.com/profile/DucThanh_Nguyen3/) |
+| **🔎 Weitere Profile** | auf Anfrage |
+
+---
 
 ## 🧭 Über mich
 Ich baue skalierbare **Java-Backends** mit klarem API-Design und liefere **moderne Angular-UIs**.  
