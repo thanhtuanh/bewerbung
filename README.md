@@ -4,16 +4,6 @@
 Schwerpunkte: **Spring Boot**, **Angular/TypeScript**, **Microservices**, **REST/APIs**, **PostgreSQL**, **Docker/K8s**, **CI/CD**, **AI-Integration**  
 🔗 Portfolio: [github.com/thanhtuanh/bewerbung](https://github.com/thanhtuanh/bewerbung)
 
-**Live-Demos:**  
-- [AI Docs Assist](https://ai-docs-assist.onrender.com) ⚠️ Free-Tier → erster Start evtl. verzögert  
-- [PIM-AI-Connector](https://pim-ai-connector-demo.onrender.com) ⚠️ Free-Tier → Cold-Start möglich  
-- [PIM-AI-Connector-Lite](https://pim-ai-connector-lite.onrender.com) ⚠️ Free-Tier → Cold-Start möglich  
-
----
-## 📄 Bewerbungsunterlagen
-- 📑 [Lebenslauf (PDF)](./Lebenslauf.pdf)  
-- 📑 [Arbeitszeugnisse (PDF)](./Zeugnisse.pdf)  
-
 ---
 
 ## 📬 Kontakt
@@ -58,6 +48,12 @@ Arbeitsweise: **ruhig, zuverlässig, nachhaltig**.
 
 ---
 
+## 🚀 Live-Demos
+- [AI Docs Assist](https://ai-docs-assist.onrender.com) ⚠️ Free-Tier → erster Start evtl. verzögert  
+- [PIM-AI-Connector](https://pim-ai-connector-demo.onrender.com) ⚠️ Free-Tier → Cold-Start möglich  
+- [PIM-AI-Connector-Lite](https://pim-ai-connector-lite.onrender.com) ⚠️ Free-Tier → Cold-Start möglich  
+
+---
 
 ## ⭐ Referenzprojekte
 
@@ -115,4 +111,4 @@ Produkt-/Medien-Uploads mit Rollen-/Rechteverwaltung.
 ### 8) **Invoice Scanner – Blacklist-IBAN-Prüfung**  
 Rechnungs-PDFs scannen & IBANs gegen Blacklist prüfen.  
 🔗 [Repo](https://github.com/thanhtuanh/invoice-scanner)  
-🛠 Java/Spring Boot • DTOs/Validierung • Tests mit Beispiel-PDF  
+🛠 Java/Spring B
