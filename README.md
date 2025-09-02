@@ -80,35 +80,36 @@ Kompakte Version für **schnelle Produktdaten-Generierung**.
 
 ---
 
-### 4) **Compliance Platform – DSGVO + EU AI Act**  
-Auditierbare **AI-Einsätze** in deutschen Unternehmen.  
-🔗 [Repo](https://github.com/thanhtuanh/dtn-compliance-platform)  
-🛠 Spring Boot Services • OpenAPI • Docker/K8s-fit • Versionierte Policies  
-
----
-
-### 5) **Bank-Portal-Demo – Microservice-Banking**  
+### 4) **Bank-Portal-Demo – Microservice-Banking**  
 Konto- & Transfer-Funktionen mit sauberer Domänen-Trennung.  
 🔗 [Repo](https://github.com/thanhtuanh/bankportal-demo)  
 🛠 Java 17 • Spring Boot 3 • PostgreSQL • Angular • CI/CD Blueprint  
 
 ---
 
-### 6) **MyBookstore – Lernbare Microservice-Basis**  
+### 5) **MyBookstore – Lernbare Microservice-Basis**  
 Auth, Katalog und Deployments als Lernplattform.  
 🔗 [Repo](https://github.com/thanhtuanh/mybookstore-microservices)  
 🛠 Spring Boot + Angular + PostgreSQL • Docker Compose • JWT-Auth  
 
 ---
 
-### 7) **MyCloud Product Manager – Uploads auf S3**  
+### 6) **MyCloud Product Manager – Uploads auf S3**  
 Produkt-/Medien-Uploads mit Rollen-/Rechteverwaltung.  
 🔗 [Repo](https://github.com/thanhtuanh/spspring-react-aws-s3-demo)  
 🛠 Spring Boot + React • JWT • GitHub Actions • File-Pipelines  
 
 ---
 
-### 8) **Invoice Scanner – Blacklist-IBAN-Prüfung**  
+### 7) **Invoice Scanner – Blacklist-IBAN-Prüfung**  
 Rechnungs-PDFs scannen & IBANs gegen Blacklist prüfen.  
 🔗 [Repo](https://github.com/thanhtuanh/invoice-scanner)  
-🛠 Java/Spring B
+🛠 Java/Spring Boot • DTOs/Validierung • Tests mit Beispiel-PDF  
+
+---
+
+## 📄 Bewerbungsunterlagen
+- 📑 [Lebenslauf (PDF)](./Lebenslauf.pdf)  
+- 📑 [Arbeitszeugnisse (PDF)](./Zeugnisse.pdf)  
+
+> ✉ **Anschreiben pro Firma:** `Anschreiben_<Firma>.pdf`
