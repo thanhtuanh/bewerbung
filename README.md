@@ -1,7 +1,7 @@
 # 📌 Bewerbung – Duc Thanh Nguyen
 
 **Senior Full-Stack Entwickler (Java/Angular) • 10+ Jahre Erfahrung**  
-Schwerpunkte: Spring Boot, **Angular/TypeScript**, **Microservices**, **REST/APIs**, **PostgreSQL**, **Docker/K8s**, **CI/CD**, **AI-Integration**  
+Schwerpunkte: **Spring Boot**, **Angular/TypeScript**, **Microservices**, **REST/APIs**, **PostgreSQL**, **Docker/K8s**, **CI/CD**, **AI-Integration**  
 🔗 Portfolio: [github.com/thanhtuanh/bewerbung](https://github.com/thanhtuanh/bewerbung)
 
 
