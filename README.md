@@ -10,6 +10,11 @@ Schwerpunkte: **Spring Boot**, **Angular/TypeScript**, **Microservices**, **REST
 - [PIM-AI-Connector-Lite](https://pim-ai-connector-lite.onrender.com) ⚠️ Free-Tier → Cold-Start möglich  
 
 ---
+## 📄 Bewerbungsunterlagen
+- 📑 [Lebenslauf (PDF)](./Lebenslauf.pdf)  
+- 📑 [Arbeitszeugnisse (PDF)](./Zeugnisse.pdf)  
+
+---
 
 ## 📬 Kontakt
 | | |
@@ -53,12 +58,6 @@ Arbeitsweise: **ruhig, zuverlässig, nachhaltig**.
 
 ---
 
-## 📄 Bewerbungsunterlagen
-- 📑 [Lebenslauf (PDF)](./Lebenslauf.pdf)  
-- 📑 [Arbeitszeugnisse (PDF)](./Zeugnisse.pdf)  
-
-
----
 
 ## ⭐ Referenzprojekte
 
