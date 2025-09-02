@@ -72,7 +72,7 @@ Ich entwickle skalierbare, wartbare **Java-Backends** mit sauberem API-Design un
 
 ---
 
-### 5) MyBookstore – Microservices „from scratch“
+### 5) MyBookstore – Microservices
 **Kurzbeschreibung:** Lernbare Microservice-Basis mit Auth, Katalog und Deployments.  
 **Repo:** [thanhtuanh/mybookstore-microservices](https://github.com/thanhtuanh/mybookstore-microservices)  
 **Tech-Highlights:** Spring Boot + Angular + PostgreSQL; Docker Compose.  
