@@ -49,7 +49,7 @@ Arbeitsweise: **ruhig, zuverlässig, nachhaltig**.
 ---
 
 ## 🚀 Live-Demos
-- [AI Docs Assist](https://ai-docs-assist.onrender.com) ⚠️ Free-Tier → erster Start evtl. verzögert  
+- [AI Docs Assist](https://ai-docs-assist.onrender.com)
 - [PIM-AI-Connector](https://pim-ai-connector-demo.onrender.com) ⚠️ Free-Tier → Cold-Start möglich  
 - [PIM-AI-Connector-Lite](https://pim-ai-connector-lite.onrender.com) ⚠️ Free-Tier → Cold-Start möglich  
 
